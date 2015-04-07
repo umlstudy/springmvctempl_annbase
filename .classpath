@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container" exported="true"/>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/3.2.0.RELEASE/73d8d7cab4e34ead82722705b97171b308dc3bd3/spring-context-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/3.2.0.RELEASE/b01912a07f727ec6d269f5275e783d662d3bafde/spring-context-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/3.2.0.RELEASE/8e130ecd7ec17d190a691a68d855650e4cda4a1e/spring-context-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/3.2.0.RELEASE/8554ac1fd1b8980dd9164f7a3a80a3ee01f3d2e2/spring-orm-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/3.2.0.RELEASE/3c1b6acae194203ece9cd03b8de3fd382055f7e2/spring-orm-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/3.2.0.RELEASE/537150f0fc64fdaf30ff8d3f7867dd4eb43f4d/spring-orm-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/3.2.0.RELEASE/168c190e105c99c4f0e08cd9f292d3d0b3563875/spring-webmvc-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/3.2.0.RELEASE/369f4366a41e0da8ac9cd253c18d7ffd12e0507c/spring-webmvc-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/3.2.0.RELEASE/2518f107230dc6de970ba6930836c6c9b5a76584/spring-webmvc-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/2f5877ef15adb721421e80f5aa2b6fe069eec8ed/jstl-1.2-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.14/6510b674f5e119177c13badf3ec5f77995ebdc05/log4j-1.2.14-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.14/3b254c872b95141751f414e353a25c2ac261b51/log4j-1.2.14.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/f2d8698c46d1167ff24b06a840a87d91a02db891/commons-io-2.4-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/3b5b0183c509963d5ffdf0d9d452a4a7521aeaa3/commons-io-2.4-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/a1fa20f7f3ad210f4b2eb51b63be3f0273be263a/commons-fileupload-1.3.1-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/c621b54583719ac0310404463d6d99db27e1052c/commons-fileupload-1.3.1.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/cd475c77e988dba8595b8ee82fa8895cfcbd7dba/commons-fileupload-1.3.1-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.0.1/1952f91d84016a39e31346c9d18bd8c9c4a128a/javax.servlet-api-3.0.1-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.0.1/6bf0ebb7efd993e222fc1112377b5e92a13b38dd/javax.servlet-api-3.0.1.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.0.1/3f57066b688f59cb998517a6e618bd53492f8c43/javax.servlet-api-3.0.1-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.2.1/d61758018d7447c54d4800ce256605230dd808eb/javax.servlet.jsp-api-2.2.1-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.2.1/9d0dbbc445b3d8f83d837622a4e0c824679b40a7/javax.servlet.jsp-api-2.2.1.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.2.1/cfed407e1e8459453138b9d628e4571c05a368c2/javax.servlet.jsp-api-2.2.1-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/f3289e8097c0013b711d058b563064c3bded4423/junit-4.11-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/23a8a81d489a6aec1cfda5740cad27853263578c/commons-logging-1.1.1-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/3.2.0.RELEASE/91091c193613cdb0ca91450629d150fa634aa420/spring-core-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/3.2.0.RELEASE/1a80f0e1405219a19cf3e1b30812f73de8e117d/spring-core-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/3.2.0.RELEASE/abf6a9f899885c0c34cb2818df0f2a92758627f9/spring-core-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/3.2.0.RELEASE/ad3c5b55ba655de682c281923f5f6d44781204b4/spring-beans-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/3.2.0.RELEASE/70459b8d062753f8ce2441bcbb121b21c412d939/spring-beans-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/3.2.0.RELEASE/40d42d7d22280c5beae8821fe02377190e776d28/spring-beans-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/3.2.0.RELEASE/37c3664275b11b275a31b47fda903db7057c1623/spring-aop-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/3.2.0.RELEASE/c2f83b789d0675ad7327f9aadb4f162106452ec5/spring-aop-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/3.2.0.RELEASE/455ed24946a2843814485aa15b74f6f35a4b148/spring-aop-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/3.2.0.RELEASE/860fdb4461d3ae8d21b5422d641f2e2b90e3ecc6/spring-expression-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/3.2.0.RELEASE/b9273cb6246f57b40dced071ed04d80654ae5645/spring-expression-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/3.2.0.RELEASE/5a08de41ff6371cb10680f9e150fd7bd1eb721d0/spring-expression-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/3.2.0.RELEASE/c954281cd9f31bb79ce60d37cd72d8a82bb1a7de/spring-tx-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/3.2.0.RELEASE/bf931884f0fcf428862ca667572175911b2a3eb7/spring-tx-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/3.2.0.RELEASE/118f4b57a47e11933a84481b74677f7ec3c755e9/spring-tx-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/3.2.0.RELEASE/e41e085c43a72eda0267996237279e1d7a62f474/spring-jdbc-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/3.2.0.RELEASE/338dad7908d1f9bdee61bfb0480bcb9db088e05f/spring-jdbc-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/3.2.0.RELEASE/4d0c65e9618a5f5f7c9fa813bad3a9ad18a9e67e/spring-jdbc-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/3.2.0.RELEASE/adb42bc3d0658c2d5ce768f0b2cac16d34ba4110/spring-web-3.2.0.RELEASE-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/3.2.0.RELEASE/1faf6a6438c43d273b6f2f7996d4a6d900b55b5a/spring-web-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/3.2.0.RELEASE/92d7a84ceb33da2a0d657216737a82ff1b21ad57/spring-web-3.2.0.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" exported="true">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/fffffff/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/ad09811315f1d4f5756986575b0ea16b99cd686f/hamcrest-core-1.3-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>
